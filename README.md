@@ -150,17 +150,6 @@ Based on these factors, members are assigned a skill level:
 * **Overview**: etwhook is a developer passionate about low-level programming, with a focus on Windows internals and security. Projects like "TartarusInjector" and "BayonetInjector" demonstrate expertise in native shellcode injection techniques and game hacking, highlighting a deep understanding of system-level operations and security mechanisms.
 
 
-
----
-
-### [debauchee](https://github.com/debauchee)
-
-* **Repositories**: 6
-* **Stars**: 6.1k+
-* **Followers**: 136
-* **Skill Level**: 🔴 Advanced
-* **Overview**: debauchee is best known for maintaining **Barrier**, an open-source keyboard and mouse sharing tool for Linux, Windows, and macOS. Barrier allows seamless input sharing across multiple machines and is widely respected for its reliability and cross-platform functionality. With over 6,000 stars, debauchee has made a significant impact in the open-source software and productivity tooling space, showcasing strong development and maintenance skills across C++, system APIs, and user-level UX design.
-
 ---
 
 ## Contributing
