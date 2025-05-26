@@ -165,7 +165,7 @@ Based on these factors, members are assigned a skill level:
 
 ## 📬 Contributing
 
-If you're a member of the Black Hats Under Ground community and would like to be featured in this directory, please submit a request by messaging @cr0mbleonthegame either in the server or by private message.
+If you're a member of the Black Hats Under Ground community and would like to be featured in this directory, please submit a request by messaging @cr0mbleonthegame either in the discord or by private message on discord.
 
 * GitHub Username
 * Number of Public Repositories
