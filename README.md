@@ -1,5 +1,3 @@
-Certainly! Here's the updated `README.md` for the **Black Hats Under Ground – GitHub Member Directory**, now including the additional members:
-
 ---
 
 # Black Hats Under Ground – GitHub Member Directory
