@@ -9,7 +9,7 @@ Join the Discord: [https://bhu.root.sx](https://bhu.root.sx) (redirect link)
 
 ---
 
-## 🧪 Evaluation Criteria
+## Evaluation Criteria
 
 Each member's GitHub profile is evaluated using the following criteria:
 
@@ -27,7 +27,7 @@ Based on these factors, members are assigned a skill level:
 
 ---
 
-## 🧑‍💻 Member Profiles
+## Member Profiles
 
 ### [Cr0mb](https://github.com/cr0mb)
 
@@ -163,7 +163,7 @@ Based on these factors, members are assigned a skill level:
 
 ---
 
-## 📬 Contributing
+## Contributing
 
 If you're a member of the Black Hats Under Ground community and would like to be featured in this directory, please submit a request by messaging @cr0mbleonthegame either in the discord or by private message on discord.
 
@@ -174,7 +174,7 @@ If you're a member of the Black Hats Under Ground community and would like to be
 
 ---
 
-## 📜 License
+## License
 
 This repository is maintained by the Black Hats Under Ground community. All content is provided for informational purposes only.
 
