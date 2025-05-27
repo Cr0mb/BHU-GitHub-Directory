@@ -159,7 +159,7 @@ Here's a profile entry similar in format and tone to the others in your director
 * **Stars**: 11
 * **Followers**: 4
 * **Skill Level**: 🟡 Intermediate
-* **Overview**: chiyoluvzu is an experimental developer focused on scripting, automation, and game modification. Their work includes tools like "AcPyTools," a Python-based memory reading/writing framework for Assault Cube, and "xsexy," which explores dynamic Windows payload generation. With projects rooted in C++, Python, and Windows internals, chiyoluvzu shows a strong interest in low-level memory manipulation and offensive security scripting. While many projects are early-stage or proof-of-concept, they indicate an evolving understanding of game hacking and reverse engineering workflows.
+* **Overview:** chiyoluvzu is a 15-year-old experimental developer with interests spanning offensive security, robotics, Linux, and reverse engineering. Her projects—like chispeaker (a FOSS TTS-to-mic GUI) and CCLV1 (a licensing model prioritizing user freedom)—reflect both technical curiosity and creative expression. Blending scripting and aesthetic sensibilities, she works primarily in Python and HTML. While many projects are personal or exploratory, they suggest a growing command of FOSS tooling and web development.
 
 ---
 
