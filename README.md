@@ -158,13 +158,14 @@ Based on these factors, members are assigned a skill level:
 * **Skill Level**: 🟡 Intermediate
 * **Overview:** chiyoluvzu is a 15-year-old experimental developer with interests spanning offensive security, robotics, Linux, and reverse engineering. Her projects—like chispeaker (a FOSS TTS-to-mic GUI) and CCLV1 (a licensing model prioritizing user freedom)—reflect both technical curiosity and creative expression. Blending scripting and aesthetic sensibilities, she works primarily in Python and HTML. While many projects are personal or exploratory, they suggest a growing command of FOSS tooling and web development.
 
-### [FrostedOnKali](https://github.com/FrostedOnKali)
+### [GrimModz666](https://github.com/GrimModz666)
 
-* **Repositories**: 2
-* **Stars**: 1
-* **Followers**: 1
-* **Skill Level**: 🟢 Beginner
-* **Overview**: FrostedOnKali is an emerging developer with a focus on Kali Linux and offensive security tools. Their repositories, such as `1337-hackka`, indicate an interest in creating GUI-based hacking utilities to simplify tasks on Kali Linux. While still building their portfolio, FrostedOnKali demonstrates enthusiasm for Python and a commitment to learning and contributing to the cybersecurity community.
+* **Repositories**: 7
+* **Stars**: 2
+* **Followers**: 12
+* **Skill Level**: 🟡 Intermediate
+* **Overview:** GrimModz666 is a developer with a keen interest in cybersecurity, reverse engineering, and software development. Their repositories demonstrate a focus on practical security tools, reverse engineering projects, and some automation scripts. While the portfolio is still growing, the projects show a solid understanding of complex technical concepts, especially within security domains. GrimModz666 maintains consistent activity, indicating dedication to improving skills and contributing to security-focused open source projects.
+
 
 ---
 
