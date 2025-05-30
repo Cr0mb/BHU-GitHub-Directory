@@ -149,9 +149,6 @@ Based on these factors, members are assigned a skill level:
 * **Skill Level**: 🔴 Advanced
 * **Overview**: etwhook is a developer passionate about low-level programming, with a focus on Windows internals and security. Projects like "TartarusInjector" and "BayonetInjector" demonstrate expertise in native shellcode injection techniques and game hacking, highlighting a deep understanding of system-level operations and security mechanisms.
 
-Here's a profile entry similar in format and tone to the others in your directory for [https://github.com/chiyoluvzu](https://github.com/chiyoluvzu):
-
----
 
 ### [chiyoluvzu](https://github.com/chiyoluvzu)
 
@@ -160,6 +157,14 @@ Here's a profile entry similar in format and tone to the others in your director
 * **Followers**: 4
 * **Skill Level**: 🟡 Intermediate
 * **Overview:** chiyoluvzu is a 15-year-old experimental developer with interests spanning offensive security, robotics, Linux, and reverse engineering. Her projects—like chispeaker (a FOSS TTS-to-mic GUI) and CCLV1 (a licensing model prioritizing user freedom)—reflect both technical curiosity and creative expression. Blending scripting and aesthetic sensibilities, she works primarily in Python and HTML. While many projects are personal or exploratory, they suggest a growing command of FOSS tooling and web development.
+
+### [FrostedOnKali](https://github.com/FrostedOnKali)
+
+* **Repositories**: 2
+* **Stars**: 1
+* **Followers**: 1
+* **Skill Level**: 🟢 Beginner
+* **Overview**: FrostedOnKali is an emerging developer with a focus on Kali Linux and offensive security tools. Their repositories, such as `1337-hackka`, indicate an interest in creating GUI-based hacking utilities to simplify tasks on Kali Linux. While still building their portfolio, FrostedOnKali demonstrates enthusiasm for Python and a commitment to learning and contributing to the cybersecurity community.
 
 ---
 
